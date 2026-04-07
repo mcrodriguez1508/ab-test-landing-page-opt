@@ -44,20 +44,10 @@ The project includes several key plots:
 📂 **Project Structure**
 Plaintext
 
-├── data/                   # Dataset (CSV)
-├── notebooks/              # Jupyter Notebook with full analysis
-├── README.md               # Project documentation
-└── requirements.txt        # Necessary libraries
-
-🚀 **How to Run**
-
-Project Structure
-Plaintext
-
-├── data/                               # Dataset (CSV)
+├── data/                                     # Dataset (CSV)
 ├── S9_Project_Landing_Experiment_MCRC.ipynb  # Main Analysis Notebook
-├── README.md                           # Project documentation
-└── requirements.txt                    # Necessary libraries
+├── README.md                                 # Project documentation
+└── requirements.txt                          # Necessary libraries
 
 🚀 How to Run
 
