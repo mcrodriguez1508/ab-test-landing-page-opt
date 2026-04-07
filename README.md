@@ -41,14 +41,17 @@ The project includes several key plots:
   - Budget allocation: Increase investment in *Ads* and *Email* channels.
   - Unified Strategy: Maintain a consistent UI for both new and returning users as their conversion behavior is nearly identical.
 
-📂 Project Structure
+📂 **Project Structure**
 Plaintext
+
 ├── data/                   # Dataset (CSV)
 ├── notebooks/              # Jupyter Notebook with full analysis
 ├── README.md               # Project documentation
 └── requirements.txt        # Necessary libraries
 
-🚀 How to Run
+🚀 **How to Run**
+
+
     Clone the repository:
     Bash
     git clone https://github.com/your-username/ab-testing-ecommerce.git
