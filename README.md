@@ -51,11 +51,26 @@ Plaintext
 
 🚀 **How to Run**
 
+Project Structure
+Plaintext
+
+├── data/                               # Dataset (CSV)
+├── S9_Project_Landing_Experiment_MCRC.ipynb  # Main Analysis Notebook
+├── README.md                           # Project documentation
+└── requirements.txt                    # Necessary libraries
+
+🚀 How to Run
 
     Clone the repository:
     Bash
-    git clone https://github.com/your-username/ab-testing-ecommerce.git
-    
+
+    git clone https://github.com/mcrodriguez1508/ab-test-landing-page-opt.git
+
+    Navigate to the project folder:
+    Bash
+
+    cd ab-test-landing-page-opt
+
     Install dependencies:
     Bash
 
@@ -64,7 +79,7 @@ Plaintext
     Open the Jupyter Notebook:
     Bash
 
-    jupyter notebook notebooks/analysis.ipynb
+    jupyter notebook S9_Project_Landing_Experiment_MCRC.ipynb
 
 Author: María Camila Rodríguez Cruz
 
